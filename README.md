@@ -25,7 +25,7 @@
 ## 👻 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=activedg&hide=stars,issues&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=activedg&layout=compact&theme=radical&exclude_repo=Algorithm_03,SupWay)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=activedg&layout=compact&theme=radical&exclude_repo=Algorithm_03,SupWay,CAU_Linux_2022)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nerw173)](https://solved.ac/nerw173/)
 
