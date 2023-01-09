@@ -7,19 +7,16 @@
 - 사용자 경험을 중요시하는 개발자
 - 디테일을 채워나가는 개발자
 
-## 🔍 Project
-- <img src="https://user-images.githubusercontent.com/70252417/189480352-3368c561-a7fa-4707-972a-e2919fc74471.png" height="15"> [SWith, 스터디 관리 서비스 (Jul.2022 ~ )](https://github.com/SWithServer/SWith_Android) 
-
 ## 🖥️ Stack
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a>
-
 
 
 ## 👻 Stats
