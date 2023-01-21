@@ -1,5 +1,8 @@
 # 활동적인 개발자 **동건✨ / active_dg** 
 <img src="https://user-images.githubusercontent.com/70252417/189479782-32e29d1f-4e2c-448b-a2d3-deac9db22370.jpg" height="500">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Factivedg%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 안녕하세요! 안드로이드 개발자 이동건입니다!😆
 
 ## 😊 I am
